@@ -1,0 +1,40 @@
+{
+  "channels": [
+    {
+      "name": "Disney",
+      "url": "https://techparag.xyz/qwert/hls/manifest.m3u8?id=114"
+    },
+    {
+      "name": "nick",
+      "url": "https://techparag.xyz/qwert/hls/manifest.m3u8?id=138"
+    },
+    {
+    "name": "pogo",
+      "url": "https://techparag.xyz/qwert/hls/manifest.m3u8?id=239"
+    },
+     {
+      "name": "sonyyay",
+      "url": "https://techparag.xyz/qwert/hls/manifest.m3u8?id=45"
+    },
+    {
+      "name": "sonic",
+      "url": "https://techparag.xyz/qwert/hls/manifest.m3u8?id=127"
+    },
+    {
+    "name": "superhungama",
+      "url": "https://techparag.xyz/qwert/hls/manifest.m3u8?id=587"
+    },
+    {
+      "name": "CN",
+      "url": "https://techparag.xyz/qwert/hls/manifest.m3u8?id=238"
+    },
+    {
+      "name": "Discoverykids",
+      "url": "https://techparag.xyz/qwert/hls/manifest.m3u8?id=119"
+    },
+    {
+    "name": "nickjr",
+      "url": "https://techparag.xyz/qwert/hls/manifest.m3u8?id=188"
+    }
+  ]
+}
